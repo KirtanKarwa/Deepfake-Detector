@@ -45,4 +45,4 @@ To develop a system that:
 ### 🚀 Future Scope
 - Real-time detection using webcam
 - Heatmap overlays on tampered facial regions
-- Integration with video surveillance or social plat
+- Integration with video surveillance or social platforms
